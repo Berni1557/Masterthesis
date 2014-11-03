@@ -1,0 +1,6 @@
+Matlab plot:
+
+title: 16
+xlabel: 14
+ylabel: 14
+line: 2
