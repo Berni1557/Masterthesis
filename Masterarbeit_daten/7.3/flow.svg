@@ -2383,19 +2383,19 @@
        width="79.571236"
        height="24.067354"
        x="355.09717"
-       y="130.57849" />
+       y="128.57849" />
     <text
        xml:space="preserve"
        style="font-size:20.43617439px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="405.24054"
-       y="130.15085"
+       y="128.33656"
        id="text3935-4-5-5-5-5-83-3-2-7-9"
        sodipodi:linespacing="125%"
        transform="scale(0.9071464,1.1023579)"><tspan
          sodipodi:role="line"
          id="tspan3937-9-3-5-7-2-3-7-1-4-4"
          x="405.24054"
-         y="130.15085"
+         y="128.33656"
          style="font-size:6.13085222px">Electronic component x</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.44888636;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -2403,19 +2403,19 @@
        width="79.690582"
        height="24.067354"
        x="354.98181"
-       y="159.57849" />
+       y="157.57849" />
     <text
        xml:space="preserve"
        style="font-size:20.43617439px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="405.3074"
-       y="157.1935"
+       y="155.37921"
        id="text3935-4-5-5-5-5-83-3-2-7-9-8"
        sodipodi:linespacing="125%"
        transform="scale(0.9071464,1.1023579)"><tspan
          sodipodi:role="line"
          id="tspan3937-9-3-5-7-2-3-7-1-4-4-2"
          x="405.3074"
-         y="157.1935"
+         y="155.37921"
          style="font-size:6.13085222px">Electronic component y</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.44990897;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -2424,24 +2424,6 @@
        height="24.067354"
        x="354.90366"
        y="237.82849" />
-    <text
-       xml:space="preserve"
-       style="font-size:20.43617439px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="404.3584"
-       y="224.5489"
-       id="text3935-4-5-5-5-5-83-3-2-7-9-8-5"
-       sodipodi:linespacing="125%"
-       transform="scale(0.9071464,1.1023579)"><tspan
-         sodipodi:role="line"
-         x="404.3584"
-         y="224.5489"
-         style="font-size:6.13085222px"
-         id="tspan3544">Printed Wiring board , </tspan><tspan
-         sodipodi:role="line"
-         x="404.3584"
-         y="232.21246"
-         style="font-size:6.13085222px"
-         id="tspan5373">surface mount, at plant</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.49382317;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2985-0-3-5-3-0-7-5-7-1-0-8-1"
@@ -2449,29 +2431,6 @@
        height="28.944759"
        x="354.70071"
        y="267.55365" />
-    <text
-       xml:space="preserve"
-       style="font-size:20.43617439px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="398.65753"
-       y="250.11249"
-       id="text3935-4-5-5-5-5-83-3-2-7-9-8-7"
-       sodipodi:linespacing="125%"
-       transform="scale(0.9071464,1.1023579)"><tspan
-         sodipodi:role="line"
-         id="tspan3937-9-3-5-7-2-3-7-1-4-4-2-1"
-         x="398.65753"
-         y="250.11249"
-         style="font-size:6.13085222px">Printed wiring board, </tspan><tspan
-         sodipodi:role="line"
-         x="398.65753"
-         y="257.77603"
-         style="font-size:6.13085222px"
-         id="tspan3540">mixed mounted unspec., </tspan><tspan
-         sodipodi:role="line"
-         x="398.65753"
-         y="265.43961"
-         style="font-size:6.13085222px"
-         id="tspan3542">solder mix, at plant (Global)</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
        d="m 354.90839,142.8918 -40.58101,0.0817 -0.16103,59.59468 -45.97862,-0.003"
@@ -2497,7 +2456,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <g
-       id="g3440">
+       id="g3440"
+       transform="translate(0,-2)">
       <text
          sodipodi:linespacing="125%"
          id="text5337"
@@ -2536,30 +2496,12 @@
            sodipodi:role="line">.</tspan></text>
     </g>
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.44855008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.50478637;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2985-0-3-5-3-0-7-5-7-1-0-1"
        width="79.571236"
-       height="24.067354"
+       height="30.480473"
        x="355.21439"
-       y="209.57849" />
-    <text
-       xml:space="preserve"
-       style="font-size:20.43617439px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="398.73941"
-       y="199.14902"
-       id="text3935-4-5-5-5-5-83-3-2-7-9-9"
-       sodipodi:linespacing="125%"
-       transform="scale(0.9071464,1.1023579)"><tspan
-         sodipodi:role="line"
-         id="tspan3937-9-3-5-7-2-3-7-1-4-4-8"
-         x="398.73941"
-         y="199.14902"
-         style="font-size:6.13085222px">Electronic component, </tspan><tspan
-         sodipodi:role="line"
-         x="398.73941"
-         y="206.81258"
-         style="font-size:6.13085222px"
-         id="tspan5399">unspecified, at plant (global)</tspan></text>
+       y="203.16536" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
        d="m 354.18333,281.8332 -40.95906,-0.15438 0.11057,-61.11657 -45.4288,0.0932"
@@ -2708,5 +2650,52 @@
        id="path4223-50-51-5-5-7-5-52-3-5-9-3-2-2-9-3-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.43617439px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="395.70898"
+       y="191.55884"
+       id="text3935-4-5-5-5-5-83-3-2-7-9-9"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9071464,1.1023579)"><tspan
+         sodipodi:role="line"
+         x="395.70898"
+         y="191.55884"
+         style="font-size:7px"
+         id="tspan3382">Leiterplatte 2-Lagen </tspan><tspan
+         sodipodi:role="line"
+         x="395.70898"
+         y="200.30884"
+         style="font-size:7px"
+         id="tspan3383">starr FR4 mit HASL Finish </tspan><tspan
+         sodipodi:role="line"
+         x="395.70898"
+         y="209.05884"
+         style="font-size:7px"
+         id="tspan3387">(subtractive Methode)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="367.54272"
+       y="282.67371"
+       id="text3533"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3535"
+         x="367.54272"
+         y="282.67371"
+         style="font-size:7px">Lotpaste SnAg3.5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="360.75146"
+       y="251.17371"
+       id="text3533-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3535-7"
+         x="360.75146"
+         y="251.17371"
+         style="font-size:7px">Leiterplatte (FR4;2l;2s)</tspan></text>
   </g>
 </svg>
