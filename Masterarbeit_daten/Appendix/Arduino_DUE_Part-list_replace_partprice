@@ -1,0 +1,135 @@
+Partlist
+
+Exported from Arduino_DUE_V02b.sch at 10.05.14 11:13
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part          Value               Device                    Package                Library                     Sheet
+
+ADCH          8x1F-H8.5           PINHD-1X8                 1X08                   SmartPrj                    1
+ADCL          8x1F-H8.5           PINHD-1X8                 1X08                   SmartPrj                    1
+BR1           NM                  J0402                     J0402                  bibaja                      1
+C1            10u                 CPOL-EUSMCB               SMC_B                  rcl                         1
+C2            10u                 CPOL-EUSMCB               SMC_B                  rcl                         1
+C3            10u                 CPOL-EUSMCB               SMC_B                  rcl                         1
+C4            100n                C-EUC0402                 C0402                  SmartPrj                    1
+C5            100n                C-EUC0402                 C0402                  SmartPrj                    1
+C6            100n                C-EUC0402                 C0402                  SmartPrj                    1
+C7            100n                C-EUC0402                 C0402                  SmartPrj                    1
+C8            100n                C-EUC0402                 C0402                  SmartPrj                    1
+C9            100n                C-EUC0402                 C0402                  SmartPrj                    1
+C10           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C11           10u                 CPOL-EUSMCB               SMC_B                  rcl                         1
+C12           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C13           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C14           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C15           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C16           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C17           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C18           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C19           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C20           10n                 C-EUC0402                 C0402                  SmartPrj                    1
+C21           22p                 C-EUC0402                 C0402                  SmartPrj                    1
+C22           22p                 C-EUC0402                 C0402                  SmartPrj                    1
+C23           22pF_NM             C-EUC0402                 C0402                  SmartPrj                    1
+C24           22pF_NM             C-EUC0402                 C0402                  SmartPrj                    1
+C25           22p                 C-EUC0402                 C0402                  SmartPrj                    1
+C26           10n                 C-EUC0402                 C0402                  SmartPrj                    1
+C27           10u                 CPOL-EUSMCB               SMC_B                  rcl                         1
+C28           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C29           10u                 CPOL-EUSMCB               SMC_B                  rcl                         1
+C30           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C31           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C32           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C33           10u                 CPOL-EUSMCB               SMC_B                  rcl                         1
+C34           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C35           10u                 CPOL-EUSMCB               SMC_B                  rcl                         1
+C36           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C37           100n                C-EUC0402                 C0402                  SmartPrj                    1
+C38           1u                  C-EUC0402                 C0402                  SmartPrj                    1
+C39           22p                 C-EUC0402                 C0402                  SmartPrj                    1
+C40           22p                 C-EUC0402                 C0402                  SmartPrj                    1
+C41           10u                 CPOL-EUSMCB               SMC_B                  rcl                         1
+C42           10n                 C-EUC0603                 C0603-ROUND            SmartPrj                    1
+COMMUNICATION 8x1F-H8.5           PINHD-1X8                 1X08                   SmartPrj                    1
+D1            M7                  DIODE-SMB                 SMB                    diode                       1
+D2            CD1206-S01575       DIODE-MINIMELF            MINIMELF               diode                       1
+D3            CD1206-S01575       DIODE-MINIMELF            MINIMELF               diode                       1
+D4            SS1P3L              SS1P3L                    DO220AAL               SmartPrj                    1
+DEBUG         STRIP 4x1V M        PINHD-1X4                 1X04                   pinhead                     1
+ERASE                             MYSMD_PB157               SMD_157SW              SmartPrj                    1
+F1            MF-MSMF050-2 500mA  L-EUL1812                 L1812                  rcl                         1
+F2            MF-MSMF050-2 500mA  L-EUL1812                 L1812                  rcl                         1
+IC1           LMV358IDGKR         LMV358MMX                 MSOP08                 linear                      1
+IC2           LM2734Y             LM2736Y                   SOT23-6                SmartPrj                    1
+IC4           NCP1117ST33T3G -3V3 MC33269ST-3.3T3           SOT223                 linear                      1
+IC6           ATMEGA16U2-MU       ATMEGA16U2-MU             MLF32                  SmartPrj                    1
+IC10          74LVC1G125DCK       74LVC1G125DCK             SC70-5                 74xx-little-us              1
+ICSP1         3x2M                PINHD-2X3                 2X03                   SmartPrj                    1
+J3            USB-MICRO B         MYCON2_USB-MINI-B         CON2_USB_MICRO_B_AT    SmartPrj                    1
+JP5           2x2M - NM           PINHD-2X2                 2X02                   SmartPrj                    1
+JR1           0R                  R-EU_R0402                R0402                  SmartPrj                    1
+JTAG                              PINHEAD_PINHD-2X5PASSO127 PINHEAD_2X05_127       Arduino_Wifi_shield_v018_tG 1
+L             YELLOW              LEDCHIP-LED0805           CHIP-LED0805           led                         1
+L1            MH2029-300Y         WE-CBF_0805               0805                   wuerth-elektronik           1
+L2            MH2029-300Y         WE-CBF_0805               0805                   wuerth-elektronik           1
+L3            MH2029-300Y         WE-CBF_0805               0805                   wuerth-elektronik           1
+L4            10u SRR0604-100ML   L-USSRR0604               SRR0604                SmartPrj                    1
+L5            MH2029-300Y         WE-CBF_0805               0805                   wuerth-elektronik           1
+L6            MH2029-300Y         WE-CBF_0805               0805                   wuerth-elektronik           1
+MACB                              PINHEAD_PINHD-2X7PASSO127 PINHEAD_2X07_127       Arduino_Wifi_shield_v018_tG 1
+ON            GREEN               LEDCHIP-LED0805           CHIP-LED0805           led                         1
+PC1           47u                 CPOL-EUD                  PANASONIC_D            rcl                         1
+PC2           47u                 CPOL-EUD                  PANASONIC_D            rcl                         1
+POWER         8x1F-H8.5           PINHD-1X8                 1X08                   SmartPrj                    1
+PWMH          10x1F-H8.5          PINHD-1X10                1X10                   SmartPrj                    1
+PWML          8x1F-H8.5           PINHD-1X8                 1X08                   SmartPrj                    1
+Q2            BC847BSMD           BC847BSMD                 SOT23                  transistor-npn              1
+R1            0R                  R-EU_R0402                R0402                  SmartPrj                    1
+R2            10K                 R-EU_R0402                R0402                  SmartPrj                    1
+R3            1K                  R-EU_R0402                R0402                  SmartPrj                    1
+R4            100K                R-EU_R0402                R0402                  SmartPrj                    1
+R5            39R 1%              R-EU_R0402                R0402                  SmartPrj                    1
+R6            39R 1%              R-EU_R0402                R0402                  SmartPrj                    1
+R7            6k8 1%              R-EU_R0603                R0603-ROUND            SmartPrj                    1
+R8            0R_NM               R-EU_R0402                R0402                  SmartPrj                    1
+R9            1M_NM               R-EU_R0402                R0402                  SmartPrj                    1
+R10           10k                 R-EU_R0402                R0402                  SmartPrj                    1
+R11           10K                 R-EU_0603-RND             R0603-ROUND            SmartPrj                    1
+R12           52K3                R-EU_0603-RND             R0603-ROUND            SmartPrj                    1
+R13           10K                 R-EU_R0402                R0402                  SmartPrj                    1
+R14           1K                  R-EU_R0402                R0402                  SmartPrj                    1
+R15           1K                  R-EU_R0402                R0402                  SmartPrj                    1
+R18           10K                 R-EU_R0402                R0402                  SmartPrj                    1
+R19           22R                 R-EU_R0402                R0402                  SmartPrj                    1
+R20           22R                 R-EU_R0402                R0402                  SmartPrj                    1
+R21           1K                  R-EU_R0402                R0402                  SmartPrj                    1
+R23           10K                 R-EU_R0402                R0402                  SmartPrj                    1
+RESET         TS42                TS42                      TS42                   SmartPrj                    1
+RN1           100K                4R-NCAT16                 CAT16                  resistor-dil                1
+RN2           100K                4R-NCAT16                 CAT16                  resistor-dil                1
+RN3           1k                  4R-NCAY16                 CAY16                  resistor-dil                1
+RN4           100K                4R-NCAT16                 CAT16                  resistor-dil                1
+RN5           1K5                 4R-NCAT16                 CAT16                  resistor-dil                1
+RX            YELLOW              LEDCHIP-LED0805           CHIP-LED0805           led                         1
+RX1           YELLOW              LEDCHIP-LED0805           CHIP-LED0805           led                         1
+SPI           3x2M                PINHD-2X3                 2X03                   SmartPrj                    1
+T1            FDN340P             PMOSSOT23                 SOT-23                 zetex                       1
+T2            FDN340P             PMOSSOT23                 SOT-23                 zetex                       1
+T3            FDN340P             PMOSSOT23                 SOT-23                 zetex                       1
+TX            YELLOW              LEDCHIP-LED0805           CHIP-LED0805           led                         1
+TX1           YELLOW              LEDCHIP-LED0805           CHIP-LED0805           led                         1
+U1            ATSAM3X8EA-AU       ATSAM3X/AAU               LQFP144                SmartPrj                    1
+USB1          MICRO-USB-AB1       MICRO_USB                 MCR-AB1-S-RA-SMT       SmartPrj                    1
+X2            POWERSUPPLY_DC21MMX POWERSUPPLY_DC21MMX       POWERSUPPLY_DC-21MM    SmartPrj                    1
+XIO           18x2F-H8.5          PINHD-2X18                2X18                   SmartPrj                    1
+Y1            12MHz KX-7 20pF     CRYSTAL-3.2-2.5           CRYSTAL-3.2-2.5        SmartPrj                    1
+Y2            32.768Khz           RESONATOR_EPSON_FC_145    RESONATOR_EPSON_FC_145 Arduino_Wifi_shield_v018_tG 1
+Y4            12MHz KX-7 20pF     CRYSTAL-3.2-2.5           CRYSTAL-3.2-2.5        SmartPrj                    1
+Z1            CG0603MLC-05E       VARISTORCN0603            CT/CN0603              varistor                    1
+Z2            CG0603MLC-05E       VARISTORCN0603            CT/CN0603              varistor                    1
+Z3            CG0603MLC-05E       VARISTORCN0603            CT/CN0603              varistor                    1
+Z4            CG0603MLC-05E       VARISTORCN0603            CT/CN0603              varistor                    1
+Z5            CG0603MLC-05E       VARISTORCN0603            CT/CN0603              varistor                    1
