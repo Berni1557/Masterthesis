@@ -1725,6 +1725,16 @@ SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics on
   File                     = {:home/bernifoellmer/Dokumente/Mendeley Desktop/Huisman - 2004 - QWERTY and Eco-Efficiency analysis on cellular phone treatment in Sweden.pdf:pdf}
 }
 
+@Article{,
+  Title                    = {QWERTY and Eco-Efficiency analysis on cellular phone treatment in Sweden, The eco-efficiency of the direct smelter route versus mandatory disassembly of Printed Circuit Boards},
+  Author                   = {Huisman, Jaco},
+  Year                     = {2004},
+  Pages                    = {33},
+
+  Address                  = {Delft, Netherlands},
+  Institution              = {TU Delft}
+}
+
 @Article{Huisman2006,
   Title                    = {{Eco-Efficiency of Take-Back and Recycling, a Comprehensive Approach}},
   Author                   = {Huisman, J. and a.L.N. Stevels},
@@ -1792,6 +1802,16 @@ SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics on
   Author                   = {Introduction, Upgrade},
 
   File                     = {:home/bernifoellmer/Dokumente/Mendeley Desktop/Introduction - Unknown - Closing Material Loops in the Extended Value Chain.pdf:pdf}
+}
+
+@Online{INPIKO,
+  Title                    = {INSTANDHALTUNG ELEKTRONISCHER KOMPONENTEN},
+  Author                   = {Fraunhofer IPK},
+  Url                      = {http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCgQFjAB&url=http%3A%2F%2Fwww.ipk.fraunhofer.de%2Ffileadmin%2Fuser_upload%2FIPK_FHG%2Fpublikationen%2Fthemenblaetter%2Fvpe_INPIKO.pdf&ei=8GjwVOTmPKfjywO3z4CgAw&usg=AFQjCNGOclR18QgP91OGtQ2QmalvyiV2fQ&bvm=bv.87269000,d.bGQ},
+  Year                     = {2013},
+
+  Owner                    = {WIN},
+  Timestamp                = {2015.02.27}
 }
 
 @Article{Iqbal2007,
@@ -2011,6 +2031,18 @@ SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics on
 
   File                     = {:home/bernifoellmer/Dokumente/Mendeley Desktop/Knoth, Kopacek, Kopacek - 2001 - Intelligent Disassembly of Electr(on)ic Equipment.pdf:pdf},
   ISBN                     = {0769512666}
+}
+
+@Inproceedings{6622856,
+  Title                    = {Heightmap generation for printed circuit boards (PCB) using laser triangulation for pre-processing optimization in industrial recycling applications},
+  Author                   = {Koch, T. and Breier, M. and Wei Li},
+  Booktitle                = {Industrial Informatics (INDIN), 2013 11th IEEE International Conference on},
+  Year                     = {2013},
+  Doi                      = {10.1109/INDIN.2013.6622856},
+  Month                    = {July},
+  Pages                    = {48-53},
+
+  Keywords                 = {measurement by laser beam;optical sensors;optimisation;printed circuits;recycling;waste recovery;PCB;electronic devices;industrial recycling applications;laser line detection algorithms;laser triangulation;material composition;preprocessing optimization;printed circuit boards classification;recycling;rise extension slope contraction;Correlation;Image reconstruction;Laser beams;Lasers;Materials;Measurement by laser beam;Recycling}
 }
 
 @Article{Koch2013,
