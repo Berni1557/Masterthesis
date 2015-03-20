@@ -15,11 +15,11 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="process chain changed_preprocessing.svg"
    inkscape:export-filename="C:\Users\WIN\Masterthesis\Masterthesis\Masterarbeit_daten\8.1\process chain changed_preprocessing.png"
-   inkscape:export-xdpi="1000"
-   inkscape:export-ydpi="1000">
+   inkscape:export-xdpi="1500"
+   inkscape:export-ydpi="1500">
   <defs
      id="defs4">
     <linearGradient
@@ -3140,7 +3140,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9999999"
-     inkscape:cx="334.3449"
+     inkscape:cx="258.0949"
      inkscape:cy="554.75004"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -3160,7 +3160,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3336,14 +3336,6 @@
        height="15.423948"
        x="502.27515"
        y="563.49866" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.35408527;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:none"
-       d="m 129.22348,655.70521 415.92397,0.23476"
-       id="path5153-4-6"
-       inkscape:connector-curvature="0"
-       inkscape:transform-center-y="4.8947896"
-       inkscape:transform-center-x="74.331107"
-       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Lend-8-1-9)"
        d="m 129.384,574.40691 15.24459,-0.0208"
@@ -3595,8 +3587,8 @@
        x="225.22647"
        y="520.27618" />
     <path
-       style="fill:#ff0000;stroke:#2a00fe;stroke-width:1.05758131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.17274416, 3.17274416;stroke-dashoffset:0"
-       d="m 531.85357,323.0528 2.12132,348.77972"
+       style="fill:#ff0000;stroke:#2a00fe;stroke-width:0.94852358;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.845571, 2.845571;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 531.8506,323.05622 2.12726,279.77288"
        id="path6379-7"
        inkscape:connector-curvature="0" />
     <text
@@ -3613,8 +3605,8 @@
          style="font-size:14px"
          id="tspan5879-6-5">2- Pre-processing</tspan></text>
     <path
-       style="fill:#ff0000;stroke:#2a00fe;stroke-width:1.05078053;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.15234194, 3.15234194;stroke-dashoffset:0"
-       d="m 137.93934,324.44351 2.12132,344.30851"
+       style="fill:#ff0000;stroke:#2a00fe;stroke-width:0.95432192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.86296609, 2.86296609;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 137.93674,324.44646 2.12652,283.30261"
        id="path6379-7-2"
        inkscape:connector-curvature="0" />
     <path
