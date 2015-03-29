@@ -3181,9 +3181,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999996"
-     inkscape:cx="123.61084"
-     inkscape:cy="677.26727"
+     inkscape:zoom="5.656854"
+     inkscape:cx="342.85023"
+     inkscape:cy="854.88708"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3202,7 +3202,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3303,7 +3303,7 @@
          id="tspan3937-9-3-5-7-2-3-7-1-4-1-9-0"
          x="362.67142"
          y="148.6946"
-         style="font-size:4.77580404px">1-Pre-processing</tspan></text>
+         style="font-size:4.77580404px">2-Pre-processing</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.46689039;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend-8-1-9-22)"
        d="m 301.43634,162.70544 20.25741,-0.0175"
@@ -3328,15 +3328,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15.91934681px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="437.79852"
-       y="148.68526"
+       x="436.43442"
+       y="148.36453"
        id="text3935-4-5-5-5-5-83-3-2-7-0-9-4"
        sodipodi:linespacing="125%"
        transform="scale(0.9071464,1.1023579)"><tspan
          sodipodi:role="line"
-         x="437.79852"
-         y="148.68526"
+         x="436.43442"
+         y="148.36453"
          style="font-size:4.77580404px"
-         id="tspan8791">Recovery and disposal</tspan></text>
+         id="tspan8791">3.Recovery and disposal</tspan></text>
   </g>
 </svg>
