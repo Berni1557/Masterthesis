@@ -30,6 +30,17 @@
   Url                      = {http://books.google.de/books?id=XafRygAACAAJ}
 }
 
+@Report{WEEEDirective2002,
+  Title                    = {Directive 2002/96/EC of the European Parliament and of the Council of 27 January 2003 on waste electrical and electronic equipment (WEEE) - Joint declaration of the European Parliament, the Council and the Commission relating to Article 9},
+  Author                   = {Directive 2002/96/EC},
+  Date                     = {02.11.2014},
+  Institution              = {European Parliament and of the Counci},
+  Year                     = {2002},
+
+  Owner                    = {WIN},
+  Timestamp                = {2015.02.20}
+}
+
 @Article{Abdelhameed2013,
   Title                    = {{A robust methodology for solder joints extraction}},
   Author                   = {Abdelhameed, Magdy M. and Awad, Mohamed a. and {Abd El-Aziz}, Hend M.},
@@ -792,6 +803,16 @@ SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics on
   Number                   = {August},
 
   File                     = {:home/bernifoellmer/Dokumente/Mendeley Desktop/LCM2011\_openLCA.pdf:pdf}
+}
+
+@Report{,
+  Title                    = {REPORT ON CRITICAL RAW MATERIALS FOR THE EU, NON-CRITICAL RAW MATERIALS PROFILES},
+  Author                   = {EU Commission},
+  Institution              = {EU Commission},
+  Year                     = {2012},
+
+  Owner                    = {WIN},
+  Timestamp                = {2015.04.10}
 }
 
 @Book{Commission2012,
@@ -2954,17 +2975,6 @@ SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics on
   Keywords                 = {Conservation of Natural Resources,Conservation of Natural Resources: methods,Electronics,Electronics: instrumentation,Gold,Hydrochloric Acid,Industrial Waste,Industrial Waste: prevention \& control,Metals,Metals: isolation \& purification,Nitric Acid,Palladium,Silver},
   Pmid                     = {18980802},
   Publisher                = {Elsevier B.V.}
-}
-
-@Report{WEEEDirective2002,
-  Title                    = {Directive 2002/96/EC of the European Parliament and of the Council of 27 January 2003 on waste electrical and electronic equipment (WEEE) - Joint declaration of the European Parliament, the Council and the Commission relating to Article 9},
-  Author                   = {European Parliament and of the Council},
-  Date                     = {02.11.2014},
-  Institution              = {European Parliament and of the Counci},
-  Year                     = {2002},
-
-  Owner                    = {WIN},
-  Timestamp                = {2015.02.20}
 }
 
 @Article{Patel2012,
